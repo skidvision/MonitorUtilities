@@ -1,6 +1,6 @@
 # Change Log
 
-Flip's dot files.
+Monitor Utilities
 
 ![](icon.png)
 
@@ -27,30 +27,15 @@ Flip's dot files.
 
 ## [Unreleased Changes]
 
-### Added
-
-- Metrics, Patches, Region, DepthMap
-- Attic for 2D stuff
-
-### Changed
-
-- version in paclet and json
-
-### Removed
-
-- Eclipse project file
-- gitignore for `doc.xml`
-- Documentation
-
-## [2.0.0] - 2017-08-15
-
-### Changed
-
-- migrated from Workbench
-
-
-## [1.0.0] - 2017-01-01
+## [1.1.0] - 2017-11-01
 
 ### Added
 
-- everything from 1984 on.
+- Development / test stuff
+
+## [1.0.0] - 2017-11-01
+
+### Added
+
+- first version extracted from various MMa files
+
