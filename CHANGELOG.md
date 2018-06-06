@@ -32,6 +32,7 @@ Monitor Utilities
 ### Added
 
 - Development / test stuff
+- paclet build
 
 ## [1.0.0] - 2017-11-01
 
