@@ -1,6 +1,6 @@
 # Monitor Utilities
 
-![](icon.jpg)
+![](icon.png)
 
 A set of Mathematica utilities for calculating monitor size characteristics for vision experiments.
 

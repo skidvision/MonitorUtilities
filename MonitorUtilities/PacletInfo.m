@@ -5,10 +5,10 @@ Paclet[
 	Publisher -> "Skidmore Vision Lab",
 	Copyright -> "1997- Flip Phillips",
 	License -> "MIT",
-	Version -> "1.2.0",
-	BuildNumber -> "17",
+	Version -> "1.2.1",
+	BuildNumber -> "22",
 	MathematicaVersion -> "11.2+",
-	URL -> "https://github.com/flipphillips/MonitorUtilities",
+	URL -> "https://github.com/skidvision/MonitorUtilities",
 	Thumbnail -> "Documentation/icon.png",
 	Loading -> Automatic,
 	Extensions -> {

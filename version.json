@@ -1,7 +1,9 @@
 {
+	"name":"MonitorUtilities",
+	"prerelease":false,
 	"major_version":1,
 	"minor_version":2,
-	"revision_number":0,
-	"build_number":17,
-	"date":"Wed 6 Jun 2018 13:17:44"
+	"revision_number":1,
+	"build_number":22,
+	"date":"Wed 6 Jun 2018 14:50:51"
 }
